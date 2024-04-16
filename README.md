@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hyper1zon
-- 👀 I’m working on an RPG in Unity called Cardinal: Demise
+- 👀 I’m working on an RPG in Unity called Cardinal: Reclamation
 - 🌱 I’m currently learning about AI development and also learning more about C# as I work on Cardinal
 - 💞️ I'd appreciate any help with modeling, animation, sound design, graphic design, or sprite artwork.
 
